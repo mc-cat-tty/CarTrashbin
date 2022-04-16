@@ -1,0 +1,6 @@
+3d/trashbin.blend filter=lfs diff=lfs merge=lfs -text
+3d/trashbin.blend1 filter=lfs diff=lfs merge=lfs -text
+videos/final_animation_eeve_2.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/final_animation_eeve_3.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/final_animation_eeve.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/animation1.mp4 filter=lfs diff=lfs merge=lfs -text
